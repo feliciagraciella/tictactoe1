@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F069E7D-7737-48F1-B964-DAC6A2C4B929}</ProjectGuid>
+    <ProjectGuid>{09BB8787-3814-4006-ABFB-EFDF226B017B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>tictactoe</RootNamespace>
-    <AssemblyName>tictactoe</AssemblyName>
+    <RootNamespace>week13</RootNamespace>
+    <AssemblyName>week13</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
